@@ -156,8 +156,4 @@ void main()
 		p += 1;
 	}
 	printf("\nBye !\n\n");
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 5133f5587d0528a6aecc91371cd49bfa0ecc76e5
+
