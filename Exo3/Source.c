@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
-
+// A inclure pour _getch et toupper
 #include <conio.h>
 #include <ctype.h>
 
