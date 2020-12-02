@@ -7,7 +7,7 @@ int main() {
 	printf("le nombre d'octets pour coder la variable : %d\n", sizeof(valeur));
 	printf("le nombre de bits pour coder la variable : %d\n", sizeof(valeur) * 8);
 	{
-
+	// on verifie si le i-eme bit de n vaut 1.
 	for (int i = 0; i < sizeof(valeur) * 8; i++) {
 		if (i < 10) {
 			if (valeur & (1 << i)) {
